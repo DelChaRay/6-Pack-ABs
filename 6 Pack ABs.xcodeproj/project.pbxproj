@@ -12,6 +12,18 @@
 		B7272D0621E657EB004E8FFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7272D0421E657EB004E8FFF /* Main.storyboard */; };
 		B7272D0821E657ED004E8FFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7272D0721E657ED004E8FFF /* Assets.xcassets */; };
 		B7272D0B21E657ED004E8FFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7272D0921E657ED004E8FFF /* LaunchScreen.storyboard */; };
+		B7272D1321E666D8004E8FFF /* ExerciseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7272D1221E666D8004E8FFF /* ExerciseTableViewCell.swift */; };
+		B7272D1721E66722004E8FFF /* ExerciseTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7272D1621E66722004E8FFF /* ExerciseTableViewController.swift */; };
+		B7272D2321E6DB2A004E8FFF /* Figure-8.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B7272D2221E6DB2A004E8FFF /* Figure-8.mp4 */; };
+		B7272D2B21E6DDFE004E8FFF /* Twisting Pistons.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B7272D2421E6DDF9004E8FFF /* Twisting Pistons.mp4 */; };
+		B7272D2C21E6DDFE004E8FFF /* Starfish Crunch.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B7272D2521E6DDFA004E8FFF /* Starfish Crunch.mp4 */; };
+		B7272D2D21E6DDFE004E8FFF /* Rest.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B7272D2621E6DDFB004E8FFF /* Rest.mp4 */; };
+		B7272D2E21E6DDFE004E8FFF /* Windshield Wipers.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B7272D2721E6DDFB004E8FFF /* Windshield Wipers.mp4 */; };
+		B7272D2F21E6DDFE004E8FFF /* Upper Circle Crunches Left.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B7272D2821E6DDFC004E8FFF /* Upper Circle Crunches Left.mp4 */; };
+		B7272D3021E6DDFE004E8FFF /* Tuck Planks.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B7272D2921E6DDFD004E8FFF /* Tuck Planks.mp4 */; };
+		B7272D3121E6DDFE004E8FFF /* Upper Circle Crunches Right.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B7272D2A21E6DDFE004E8FFF /* Upper Circle Crunches Right.mp4 */; };
+		B7272D5121EAC557004E8FFF /* StartUIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7272D5021EAC557004E8FFF /* StartUIButton.swift */; };
+		B7272D5321EACE19004E8FFF /* DatesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7272D5221EACE19004E8FFF /* DatesTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		B7272D0721E657ED004E8FFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B7272D0A21E657ED004E8FFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B7272D0C21E657ED004E8FFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7272D1221E666D8004E8FFF /* ExerciseTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseTableViewCell.swift; sourceTree = "<group>"; };
+		B7272D1621E66722004E8FFF /* ExerciseTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseTableViewController.swift; sourceTree = "<group>"; };
+		B7272D2221E6DB2A004E8FFF /* Figure-8.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Figure-8.mp4"; sourceTree = "<group>"; };
+		B7272D2421E6DDF9004E8FFF /* Twisting Pistons.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Twisting Pistons.mp4"; sourceTree = "<group>"; };
+		B7272D2521E6DDFA004E8FFF /* Starfish Crunch.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Starfish Crunch.mp4"; sourceTree = "<group>"; };
+		B7272D2621E6DDFB004E8FFF /* Rest.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Rest.mp4; sourceTree = "<group>"; };
+		B7272D2721E6DDFB004E8FFF /* Windshield Wipers.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Windshield Wipers.mp4"; sourceTree = "<group>"; };
+		B7272D2821E6DDFC004E8FFF /* Upper Circle Crunches Left.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Upper Circle Crunches Left.mp4"; sourceTree = "<group>"; };
+		B7272D2921E6DDFD004E8FFF /* Tuck Planks.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tuck Planks.mp4"; sourceTree = "<group>"; };
+		B7272D2A21E6DDFE004E8FFF /* Upper Circle Crunches Right.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Upper Circle Crunches Right.mp4"; sourceTree = "<group>"; };
+		B7272D5021EAC557004E8FFF /* StartUIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartUIButton.swift; sourceTree = "<group>"; };
+		B7272D5221EACE19004E8FFF /* DatesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatesTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,9 +78,21 @@
 		B7272CFF21E657EB004E8FFF /* 6 Pack ABs */ = {
 			isa = PBXGroup;
 			children = (
-				B7272D0021E657EB004E8FFF /* AppDelegate.swift */,
+				B7272D5021EAC557004E8FFF /* StartUIButton.swift */,
 				B7272D0221E657EB004E8FFF /* ViewController.swift */,
+				B7272D0021E657EB004E8FFF /* AppDelegate.swift */,
 				B7272D0421E657EB004E8FFF /* Main.storyboard */,
+				B7272D5221EACE19004E8FFF /* DatesTableViewController.swift */,
+				B7272D1621E66722004E8FFF /* ExerciseTableViewController.swift */,
+				B7272D1221E666D8004E8FFF /* ExerciseTableViewCell.swift */,
+				B7272D2221E6DB2A004E8FFF /* Figure-8.mp4 */,
+				B7272D2621E6DDFB004E8FFF /* Rest.mp4 */,
+				B7272D2521E6DDFA004E8FFF /* Starfish Crunch.mp4 */,
+				B7272D2921E6DDFD004E8FFF /* Tuck Planks.mp4 */,
+				B7272D2421E6DDF9004E8FFF /* Twisting Pistons.mp4 */,
+				B7272D2821E6DDFC004E8FFF /* Upper Circle Crunches Left.mp4 */,
+				B7272D2A21E6DDFE004E8FFF /* Upper Circle Crunches Right.mp4 */,
+				B7272D2721E6DDFB004E8FFF /* Windshield Wipers.mp4 */,
 				B7272D0721E657ED004E8FFF /* Assets.xcassets */,
 				B7272D0921E657ED004E8FFF /* LaunchScreen.storyboard */,
 				B7272D0C21E657ED004E8FFF /* Info.plist */,
@@ -123,7 +159,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7272D0B21E657ED004E8FFF /* LaunchScreen.storyboard in Resources */,
+				B7272D2C21E6DDFE004E8FFF /* Starfish Crunch.mp4 in Resources */,
+				B7272D2321E6DB2A004E8FFF /* Figure-8.mp4 in Resources */,
+				B7272D3121E6DDFE004E8FFF /* Upper Circle Crunches Right.mp4 in Resources */,
+				B7272D2F21E6DDFE004E8FFF /* Upper Circle Crunches Left.mp4 in Resources */,
+				B7272D2E21E6DDFE004E8FFF /* Windshield Wipers.mp4 in Resources */,
+				B7272D2D21E6DDFE004E8FFF /* Rest.mp4 in Resources */,
+				B7272D2B21E6DDFE004E8FFF /* Twisting Pistons.mp4 in Resources */,
 				B7272D0821E657ED004E8FFF /* Assets.xcassets in Resources */,
+				B7272D3021E6DDFE004E8FFF /* Tuck Planks.mp4 in Resources */,
 				B7272D0621E657EB004E8FFF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -135,8 +179,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7272D1321E666D8004E8FFF /* ExerciseTableViewCell.swift in Sources */,
+				B7272D1721E66722004E8FFF /* ExerciseTableViewController.swift in Sources */,
 				B7272D0321E657EB004E8FFF /* ViewController.swift in Sources */,
 				B7272D0121E657EB004E8FFF /* AppDelegate.swift in Sources */,
+				B7272D5121EAC557004E8FFF /* StartUIButton.swift in Sources */,
+				B7272D5321EACE19004E8FFF /* DatesTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
